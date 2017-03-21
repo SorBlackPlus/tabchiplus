@@ -4,7 +4,7 @@ TG-CLI Based Broadcasting Bot.
 
 ## راهنمای نصب :
 
-git clone https://Github/kia-pashang/Tabchi.git
+git clone https://Github/SorBlackPlus/tabchiplus.git
 
 cd Tabchi
 
@@ -20,7 +20,7 @@ cd Tabchi
 
 lua creator.lua
 
-بعد ایدی سودو ست کنید مثلا : Id: 93365812
+بعد ایدی سودو ست کنید مثلا: 93365812
 
 screen ./tabchi-0.sh
 
@@ -34,13 +34,13 @@ lua manual-creator.lua
 
 ایدی تبچی ست کنید مثلا : 5
 
-بعدش ایدی سودو بدین مثلا : Id: 93365812
+بعدش ایدی سودو بدین مثلا: 93365812 
 
 screen ./tabchi-5.sh
 
 شماره ست کنید و حالشو ببرین
 -----------------------
-# Tabchi V4 [PrimeTeam && SorBlackTeam](https://t.me/primeteam)
+# Tabchi V4.4 [PrimeTeam && SorBlackTeam](https://t.me/primeteam)
 
 TG-CLI based broadcasting bot!
 -----------------------
