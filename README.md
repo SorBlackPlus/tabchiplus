@@ -6,7 +6,7 @@ TG-CLI Based Broadcasting Bot.
 
 git clone https://Github/SorBlackPlus/tabchiplus.git
 
-cd Tabchi
+cd tabchiplus
 
 chmod +x install.sh
 
@@ -16,7 +16,7 @@ chmod +x install.sh
 
 ## ران کردن ربات به صورت پیشفرض
 
-cd Tabchi
+cd tabchiplus
 
 lua creator.lua
 
@@ -28,7 +28,7 @@ screen ./tabchi-0.sh
 
 ## ران کردن بات به صورت دستی
 
-cd Tabchi
+cd tabchiplus
 
 lua manual-creator.lua
 
@@ -57,15 +57,15 @@ Enter Full Sudo ID : 122774063
 Done!
 New Tabchi Created...
 ID : 0
-Full Sudo : 122774063
+Full Sudo : 93365812
 Run : ./tabchi-0.sh
 ```
 `Enter your telegram Id in "Full Sudo ID" part`
 ------------------------
 How to install tabchi bot?
 ```
-git clone https://github.com/SorBlackPlus/tabchi.git
-cd tabchi
+git clone https://github.com/SorBlackPlus/tabchiplus.git
+cd tabchiplus
 chmod 777 install.sh
 ./install.sh
 `Loading...`
@@ -79,14 +79,14 @@ typing 1,2,3 (please type 1)
 #finish
 <------------>
 for on bot?
-cd tabchi
+cd tabchiplus
 ./tabchi-0.sh
 #sorblack :):|
 ```
 ---------------------
 how to fast install ?
 ---------------------
-`git clone https://github.com/SorBlackPlus/tabchi.git && cd tabchi && chmod 777 install.sh && ./install.sh && lua creator.lua && (93365812)==> sudo id :) && ./tabchi-0.sh && #send phone number and code for run bot :) #finish`
+`git clone https://github.com/SorBlackPlus/tabchiplus.git && cd tabchiplus && chmod 777 install.sh && ./install.sh && lua creator.lua && (93365812)==> sudo id :) && ./tabchi-0.sh && #send phone number and code for run bot :) #finish`
 ---------------------
 What bot commands?
 [please download txt file for help you :)](http://s9.picofile.com/file/8289981650/commands_tabchi_PrimeTeam_SorBlackTeam_.txt.html)
