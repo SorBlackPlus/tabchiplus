@@ -9,4 +9,3 @@ io.open("tabchi-"..last..".sh",'w'):write("while true; do\n./telegram-cli-1222 -
 io.popen("chmod 777 tabchi-"..last..".sh")
 redis:set('tabchi:'..last..':fullsudo',sudo)
 print("Done!\nNew Tabchi Created...\nID : "..last.."\nFull Sudo : "..sudo.."\nRun : ./tabchi-"..last..".sh")
-
