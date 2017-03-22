@@ -89,7 +89,7 @@ how to fast install ?
 `git clone https://github.com/SorBlackPlus/tabchiplus.git && cd tabchiplus && chmod 777 install.sh && ./install.sh && lua creator.lua && (93365812)==> sudo id :) && ./tabchi-0.sh && #send phone number and code for run bot :) #finish`
 ---------------------
 What bot commands?
-[please download txt file for help you :)](http://s9.picofile.com/file/8289981650/commands_tabchi_PrimeTeam_SorBlackTeam_.txt.html)
+[please download txt file for help you :)](http://s7.picofile.com/file/8290152784/commands_tabchiplus_PrimeTeam_SorBlackTeam_.txt.html)
 ---------------------
 Enjoy Your New Bot!
 ## Run
