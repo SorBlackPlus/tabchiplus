@@ -27,3 +27,4 @@ function tdcli_update_callback(data)
     tdcli.sendMessage(data.message_.chat_id_, 0, 1, "*Updates Received And Bot Reloaded*", 1, "md")
   end
 end
+
