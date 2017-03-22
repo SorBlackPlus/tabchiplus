@@ -6,3 +6,4 @@ NC='\033[0m'
 CYAN='\033[0;36m'
 echo -e "${CYAN}All Done! Tor Installed And Applied..., Enjoy Your Bots${NC}"
 exit
+
