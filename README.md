@@ -4,7 +4,7 @@ TG-CLI Based Broadcasting Bot.
 
 ## راهنمای نصب :
 
-git clone https://Github/SorBlackPlus/tabchiplus.git
+git clone https://Github.com/SorBlackPlus/tabchiplus.git
 
 cd tabchiplus
 
@@ -46,7 +46,7 @@ TG-CLI based broadcasting bot!
 -----------------------
 ## Install
 ```bash
-chmod 777 install.sh
+chmod +x install.sh
 ./install.sh
 ```
 ## Create a bot!
@@ -66,7 +66,7 @@ How to install tabchi bot?
 ```
 git clone https://github.com/SorBlackPlus/tabchiplus.git
 cd tabchiplus
-chmod 777 install.sh
+chmod +x install.sh
 ./install.sh
 `Loading...`
 if lua creator.lua => (http://s9.picofile.com/file/8289982384/7.PNG)
@@ -86,7 +86,7 @@ cd tabchiplus
 ---------------------
 how to fast install ?
 ---------------------
-`git clone https://github.com/SorBlackPlus/tabchiplus.git && cd tabchiplus && chmod 777 install.sh && ./install.sh && lua creator.lua && (93365812)==> sudo id :) && ./tabchi-0.sh && #send phone number and code for run bot :) #finish`
+`git clone https://github.com/SorBlackPlus/tabchiplus.git && cd tabchiplus && chmod +x install.sh && ./install.sh && lua creator.lua && (93365812)==> sudo id :) && ./tabchi-0.sh && #send phone number and code for run bot :) #finish`
 ---------------------
 What bot commands?
 [please download txt file for help you :)](http://s7.picofile.com/file/8290152784/commands_tabchiplus_PrimeTeam_SorBlackTeam_.txt.html)
